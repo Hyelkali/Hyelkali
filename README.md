@@ -1,9 +1,13 @@
 # My-personal-GitHub-profile
 <!-- Hero Banner -->
-<p align="center">
+<!-- Hero Banner and Profile Image -->
+<p align="left">
   <img src="https://res.cloudinary.com/devnath/image/upload/v1750256597/logoMe1_p8w3np.png" width="160" alt="Profile Image" style="border-radius: 50%;" />
 </p>
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Hyelkali/Hyelkali/main/banner.png" alt="Hyelkali Banner" width="100%" />
+</p>
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Hyelkali+👋;Frontend+Engineer+%7C+Creative+Technologist;Building+Modern+UIs+%26+Interactive+Experiences;Let's+Build+Something+Awesome!" alt="Typing SVG" />
