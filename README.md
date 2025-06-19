@@ -15,7 +15,7 @@
 <!-- Typing Animation Centered -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=ffbf00&center=true&vCenter=true&width=600&lines=Hi+I'm+Hyelkali+👋;Frontend+Engineer+%7C+Creative+Technologist;Building+Modern+UIs+%26+Interactive+Experiences;Let's+Build+Something+Awesome!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1200&color=ffbf00&center=true&vCenter=true&width=700&lines=Hi+I'm+Hyelkali+👋;Frontend+Engineer+%7C+Creative+Technologist;Building+Modern+UIs+%26+Interactive+Experiences;Let's+Build+Something+Awesome!" 
     alt="Typing SVG" 
     style="margin-top: 20px; margin-bottom: 20px;" 
   />
