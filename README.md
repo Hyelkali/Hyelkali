@@ -1,17 +1,22 @@
 # My-personal-GitHub-profile
-<!-- Hero Banner -->
 <!-- Hero Banner and Profile Image -->
-<p align="left">
-  <img src="https://res.cloudinary.com/devnath/image/upload/v1750256597/logoMe1_p8w3np.png" width="160" alt="Profile Image" style="border-radius: 50%;" />
-</p>
+<!-- Profile Image and Banner Side-by-Side -->
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://res.cloudinary.com/devnath/image/upload/v1750256597/logoMe1_p8w3np.png" width="140" alt="Profile Image" style="border-radius: 50%;" />
+    </td>
+    <td align="right">
+      <img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-4640-620a-b446-6fbdf4df89b3/raw?se=2025-06-19T12%3A44%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=85951325-f560-5b56-800c-c75f52853326&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-19T10%3A09%3A50Z&ske=2025-06-20T10%3A09%3A50Z&sks=b&skv=2024-08-04&sig=GIlS2ndF7gcetIsQvWNWS3bmBrjmK3qY7Go1lSSqiZo%3D" alt="Hyelkali Banner" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-4640-620a-b446-6fbdf4df89b3/raw?se=2025-06-19T12%3A44%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=85951325-f560-5b56-800c-c75f52853326&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-19T10%3A09%3A50Z&ske=2025-06-20T10%3A09%3A50Z&sks=b&skv=2024-08-04&sig=GIlS2ndF7gcetIsQvWNWS3bmBrjmK3qY7Go1lSSqiZo%3D" alt="Hyelkali Banner" width="100%" />
-</p>
-<!-- Typing animation -->
+<!-- Typing Animation Centered -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Hyelkali+👋;Frontend+Engineer+%7C+Creative+Technologist;Building+Modern+UIs+%26+Interactive+Experiences;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
+
 
 ---
 
