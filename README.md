@@ -56,23 +56,32 @@ I’m **Hyelkali** – a frontend developer and creative technologist passionate
 
 ---
 
+
 ## 📌 Featured Projects
 
-[![YourRepo1](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=your-repo-name-1&theme=radical)](https://github.com/Hyelkali/your-repo-name-1)
-[![YourRepo2](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=your-repo-name-2&theme=radical)](https://github.com/Hyelkali/your-repo-name-2)
+[![CEA-POLY](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=CEA-POLY&theme=radical)](https://github.com/Hyelkali/CEA-POLY)
+[![Chineacherem](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Chineacherem&theme=radical)](https://github.com/Hyelkali/Chineacherem)
+[![DonorPay](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=DonorPay&theme=radical)](https://github.com/Hyelkali/DonorPay)
+[![palletbodegas](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=palletbodegas&theme=radical)](https://github.com/Hyelkali/palletbodegas)
+[![vision-ui-dashboard-react](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=vision-ui-dashboard-react&theme=radical)](https://github.com/Hyelkali/vision-ui-dashboard-react)
+[![WithFirebase](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=WithFirebase&theme=radical)](https://github.com/Hyelkali/WithFirebase)
+[![Eggcellent](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Eggcellent&theme=radical)](https://github.com/Hyelkali/Eggcellent)
+[![ResultGen](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=ResultGen&theme=radical)](https://github.com/Hyelkali/ResultGen)
+[![MC_Done](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=MC_Done&theme=radical)](https://github.com/Hyelkali/MC_Done)
+[![Abiazia-Faithful](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Abiazia-Faithful&theme=radical)](https://github.com/Hyelkali/Abiazia-Faithful)
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://t.me/@HyelKali">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourname@gmail.com">
+  <a href="mailto:hyelnamuninathan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
