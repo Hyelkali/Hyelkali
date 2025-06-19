@@ -1,7 +1,7 @@
 # My-personal-GitHub-profile
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://res.cloudinary.com/devnath/image/upload/v1750256597/imgMe_ewfxfs.png" width="160" alt="Profile Image" style="border-radius: 50%;" />
+  <img src="https://res.cloudinary.com/devnath/image/upload/v1750256597/logoMe1_p8w3np.png" width="160" alt="Profile Image" style="border-radius: 50%;" />
 </p>
 
 <!-- Typing animation -->
