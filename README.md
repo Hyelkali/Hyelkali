@@ -1,4 +1,4 @@
-# Hyelkali - Frontend
+# Dev.Nath A.K.A - Hyelkali
 <!-- Hero Banner and Profile Image -->
 <!-- Profile Image and Banner Side-by-Side -->
 <table width="100%" border="none">
