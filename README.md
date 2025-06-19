@@ -61,30 +61,41 @@ I’m **Hyelkali** – a frontend developer and creative technologist passionate
 
 ---
 
-## 🎧 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-username">
-    <img src="https://spotify-readme.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-
 ## 📌 Featured Projects
 
-[![CEA-POLY](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=CEA-POLY&theme=radical)](https://github.com/Hyelkali/CEA-POLY)
-[![Chineacherem](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Chineacherem&theme=radical)](https://github.com/Hyelkali/Chineacherem)
-[![DonorPay](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=DonorPay&theme=radical)](https://github.com/Hyelkali/DonorPay)
-[![palletbodegas](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=palletbodegas&theme=radical)](https://github.com/Hyelkali/palletbodegas)
-[![vision-ui-dashboard-react](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=vision-ui-dashboard-react&theme=radical)](https://github.com/Hyelkali/vision-ui-dashboard-react)
-[![WithFirebase](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=WithFirebase&theme=radical)](https://github.com/Hyelkali/WithFirebase)
-[![Eggcellent](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Eggcellent&theme=radical)](https://github.com/Hyelkali/Eggcellent)
-[![ResultGen](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=ResultGen&theme=radical)](https://github.com/Hyelkali/ResultGen)
-[![MC_Done](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=MC_Done&theme=radical)](https://github.com/Hyelkali/MC_Done)
-[![Abiazia-Faithful](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Abiazia-Faithful&theme=radical)](https://github.com/Hyelkali/Abiazia-Faithful)
-
+[![Abiazia-Faithful](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Abiazia-Faithful&theme=radical)](https://github.com/Hyelkali/Abiazia-Faithful) [![Abigail](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Abigail&theme=radical)](https://github.com/Hyelkali/Abigail)
+[![Achor-Stev](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Achor-Stev&theme=radical)](https://github.com/Hyelkali/Achor-Stev) [![Anto](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Anto&theme=radical)](https://github.com/Hyelkali/Anto)
+[![BarkBoutique](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=BarkBoutique&theme=radical)](https://github.com/Hyelkali/BarkBoutique) [![Bianca](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Bianca&theme=radical)](https://github.com/Hyelkali/Bianca)
+[![CEA-POLY](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=CEA-POLY&theme=radical)](https://github.com/Hyelkali/CEA-POLY) [![ChiBank](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=ChiBank&theme=radical)](https://github.com/Hyelkali/ChiBank)
+[![Chineacherem](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Chineacherem&theme=radical)](https://github.com/Hyelkali/Chineacherem) [![church-sms](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=church-sms&theme=radical)](https://github.com/Hyelkali/church-sms)
+[![ChynaMaFlex](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=ChynaMaFlex&theme=radical)](https://github.com/Hyelkali/ChynaMaFlex) [![ClassWork](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=ClassWork&theme=radical)](https://github.com/Hyelkali/ClassWork)
+[![Collin](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Collin&theme=radical)](https://github.com/Hyelkali/Collin) [![Collins-](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Collins-&theme=radical)](https://github.com/Hyelkali/Collins-)
+[![Collins-D](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Collins-D&theme=radical)](https://github.com/Hyelkali/Collins-D) [![Comfort](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Comfort&theme=radical)](https://github.com/Hyelkali/Comfort)
+[![Convenant-Gospel](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Convenant-Gospel&theme=radical)](https://github.com/Hyelkali/Convenant-Gospel) [![Daniel-Mark](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Daniel-Mark&theme=radical)](https://github.com/Hyelkali/Daniel-Mark)
+[![Djdave](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Djdave&theme=radical)](https://github.com/Hyelkali/Djdave) [![DonorPay](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=DonorPay&theme=radical)](https://github.com/Hyelkali/DonorPay)
+[![Eggcellent](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Eggcellent&theme=radical)](https://github.com/Hyelkali/Eggcellent) [![Eggcellent-1](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Eggcellent-1&theme=radical)](https://github.com/Hyelkali/Eggcellent-1)
+[![Ekpo-Jimmy](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Ekpo-Jimmy&theme=radical)](https://github.com/Hyelkali/Ekpo-Jimmy) [![Emeribe-Precious-Kelechi](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Emeribe-Precious-Kelechi&theme=radical)](https://github.com/Hyelkali/Emeribe-Precious-Kelechi)
+[![Favour](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Favour&theme=radical)](https://github.com/Hyelkali/Favour) [![FederalAdmission](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=FederalAdmission&theme=radical)](https://github.com/Hyelkali/FederalAdmission)
+[![Fubara](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Fubara&theme=radical)](https://github.com/Hyelkali/Fubara) [![Fubara-Nimi](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Fubara-Nimi&theme=radical)](https://github.com/Hyelkali/Fubara-Nimi)
+[![Henry-Website](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Henry-Website&theme=radical)](https://github.com/Hyelkali/Henry-Website) [![HenryB](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=HenryB&theme=radical)](https://github.com/Hyelkali/HenryB)
+[![hydroferric](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=hydroferric&theme=radical)](https://github.com/Hyelkali/hydroferric) [![Jimmy-Global-Classic](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Jimmy-Global-Classic&theme=radical)](https://github.com/Hyelkali/Jimmy-Global-Classic)
+[![Jimmy-Global-Classic2](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Jimmy-Global-Classic2&theme=radical)](https://github.com/Hyelkali/Jimmy-Global-Classic2) [![Jonah](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Jonah&theme=radical)](https://github.com/Hyelkali/Jonah)
+[![Joshua](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Joshua&theme=radical)](https://github.com/Hyelkali/Joshua) [![JXT-](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=JXT-&theme=radical)](https://github.com/Hyelkali/JXT-)
+[![LearnCoding](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=LearnCoding&theme=radical)](https://github.com/Hyelkali/LearnCoding) [![Mark](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Mark&theme=radical)](https://github.com/Hyelkali/Mark)
+[![MC_Done](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=MC_Done&theme=radical)](https://github.com/Hyelkali/MC_Done) [![Mobile-Edu](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Mobile-Edu&theme=radical)](https://github.com/Hyelkali/Mobile-Edu)
+[![MobileEdu](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=MobileEdu&theme=radical)](https://github.com/Hyelkali/MobileEdu) [![Nathan](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Nathan&theme=radical)](https://github.com/Hyelkali/Nathan)
+[![NathanFb](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=NathanFb&theme=radical)](https://github.com/Hyelkali/NathanFb) [![NathanFirstClone](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=NathanFirstClone&theme=radical)](https://github.com/Hyelkali/NathanFirstClone)
+[![NathanHyel](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=NathanHyel&theme=radical)](https://github.com/Hyelkali/NathanHyel) [![Nwoko-Precious-](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Nwoko-Precious-&theme=radical)](https://github.com/Hyelkali/Nwoko-Precious-)
+[![Otunoyo-Divine](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Otunoyo-Divine&theme=radical)](https://github.com/Hyelkali/Otunoyo-Divine) [![palletbodega](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=palletbodega&theme=radical)](https://github.com/Hyelkali/palletbodega)
+[![palletbodegas](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=palletbodegas&theme=radical)](https://github.com/Hyelkali/palletbodegas) [![palletbodegashop](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=palletbodegashop&theme=radical)](https://github.com/Hyelkali/palletbodegashop)
+[![palletsbodeg](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=palletsbodeg&theme=radical)](https://github.com/Hyelkali/palletsbodeg) [![palletsBodega](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=palletsbodega&theme=radical)](https://github.com/Hyelkali/palletsBodega)
+[![Peace-Chinyere](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Peace-Chinyere&theme=radical)](https://github.com/Hyelkali/Peace-Chinyere) [![Precious](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Precious&theme=radical)](https://github.com/Hyelkali/Precious)
+[![Precious-Dick](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Precious-Dick&theme=radical)](https://github.com/Hyelkali/Precious-Dick) [![PrinceWill](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=PrinceWill&theme=radical)](https://github.com/Hyelkali/PrinceWill)
+[![Project--V-0.0](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Project--V-0.0&theme=radical)](https://github.com/Hyelkali/Project--V-0.0) [![ProsperBOMS](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=ProsperBOMS&theme=radical)](https://github.com/Hyelkali/ProsperBOMS)
+[![Raph](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Raph&theme=radical)](https://github.com/Hyelkali/Raph) [![ResultGen](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=ResultGen&theme=radical)](https://github.com/Hyelkali/ResultGen)
+[![Reward-](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Reward-&theme=radical)](https://github.com/Hyelkali/Reward-) [![TryHarder](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=TryHarder&theme=radical)](https://github.com/Hyelkali/TryHarder)
+[![TRYNathan](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=TRYNathan&theme=radical)](https://github.com/Hyelkali/TRYNathan) [![Usa-Isaac](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=Usa-Isaac&theme=radical)](https://github.com/Hyelkali/Usa-Isaac)
+[![vision-ui-dashboard-react](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=vision-ui-dashboard-react&theme=radical)](https://github.com/Hyelkali/vision-ui-dashboard-react) [![WithFirebase](https://github-readme-stats.vercel.app/api/pin/?username=Hyelkali&repo=WithFirebase&theme=radical)](https://github.com/Hyelkali/WithFirebase)
 ---
 
 ## 📫 Connect With Me
