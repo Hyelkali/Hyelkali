@@ -1,7 +1,7 @@
 # Dev.Nath A.K.A - Hyelkali
 <!-- Hero Banner and Profile Image -->
 <!-- Profile Image and Banner Side-by-Side -->
-<table width="100%" border="none">
+<table width="100%" style="border:none; outline:none">
   <tr>
     <td width="35%" align="center">
       <img src="https://res.cloudinary.com/devnath/image/upload/v1750256597/logoMe1_p8w3np.png" width="220" alt="Profile Image" style="border-radius: 50%;" />
