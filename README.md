@@ -7,7 +7,7 @@
       <img src="https://res.cloudinary.com/devnath/image/upload/v1750256597/logoMe1_p8w3np.png" width="225" alt="Profile Image" style="border-radius: 50%;" />
     </td>
     <td align="right">
-      <img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-4640-620a-b446-6fbdf4df89b3/raw?se=2025-06-19T12%3A44%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=85951325-f560-5b56-800c-c75f52853326&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-19T10%3A09%3A50Z&ske=2025-06-20T10%3A09%3A50Z&sks=b&skv=2024-08-04&sig=GIlS2ndF7gcetIsQvWNWS3bmBrjmK3qY7Go1lSSqiZo%3D" alt="Hyelkali Banner" width="100%" />
+      <img src="https://res.cloudinary.com/devnath/image/upload/v1750344358/scrnli_Zz2732UfnHS4EY_n08gzv.png" alt="Hyelkali Banner" width="100%" />
     </td>
   </tr>
 </table>
